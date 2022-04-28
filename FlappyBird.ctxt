@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=FlappyBird
+comment1.params=
+comment1.target=void\ create()
+comment2.params=
+comment2.target=void\ render()
+comment3.params=
+comment3.target=void\ getInput()
+comment4.params=
+comment4.target=float\ generateRandomY()
+comment5.params=width\ height
+comment5.target=void\ resize(int,\ int)
+comment6.params=
+comment6.target=void\ dispose()
+numComments=7
